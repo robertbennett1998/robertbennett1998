@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am currently a software engineer working within the areospace industry. I am currently working on Future Software Architectures for airborne software.
+I am currently a software engineer working within the areospace industry; I am currently working on Future Software Architectures for airborne software.
 
 ### I am currently working on...
 [Timebox](https://github.com/mumby0168/timebox) with a friend from work. Timebox will be system that makes it easy to allocate your time to various tasks and see where you waste time.
