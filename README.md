@@ -11,7 +11,7 @@
 
 [bird_classification](https://github.com/robertbennett1998/bird_classification) a neural network that makes use of the [hyperparameter optimisationh library](https://github.com/robertbennett1998/hyperparameter_optimisation_library) to classify ~150 species of [birds](https://www.kaggle.com/gpiosenka/100-bird-species/version/14). The optimised network achived a validation accuracy 88%. 
 
-[OneShotEngine](https://github.com/robertbennett1998/OneShotEngine), a long term project exploring DirectX and game engines.
+[OneShotEngine](https://github.com/robertbennett1998/OneShotEngine), a long term project exploring DirectX and game engines. Its best to look at the [development](https://github.com/robertbennett1998/OneShotEngine/tree/development) branch.
 
 [DistributedSystems](https://github.com/robertbennett1998/DistributedSystems), course work for the distributed systems module. We were required to implement a REST API and a client to access the API via a CLI. For the client I started to create a quick CLI framework that would detect "command" methods and parse the input string.
 
