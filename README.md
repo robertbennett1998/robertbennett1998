@@ -5,7 +5,7 @@ I am currently a software engineer working within the areospace industry; I am c
 ### I am currently working on...
 [Timebox](https://github.com/mumby0168/timebox) with a friend from work. Timebox will be system that makes it easy to allocate your time to various tasks and see where you waste time. The backend is going to be written in Asp.Net Core and apply Domain Driven Design and Test Driven Design principles to build a modular monolith application.
 
-[K&EK Trophies](https://github.com/robertbennett1998/kektrophies), a website for a family member to replace the existing one. The code aims to be clean but and attempts to follow best practice without over engineering it for its purpose. Still following TDD.
+[K&EK Trophies](https://github.com/robertbennett1998/kektrophies), a website for a family member to replace the existing one. The code aims to be clean and attempts to follow best practice without over engineering it for its purpose. Still following TDD.
 
 ### Why not have a look at...
 [hyperparameter_optimisation_library](https://github.com/robertbennett1998/hyperparameter_optimisation_library), a hyperparameter optimisation library for Keras; written for my dissertation as part of my BSc (Hons) in Computer Science. The aim was to provide a reusable framework to perform experiments with various hyperparemter optimisation algorithms. Three were implemented Random Search, Genetic Algorithm and a Random Forest with a Bayesian surrogate function.
