@@ -3,11 +3,11 @@
 I am currently a software engineer working within the areospace industry; I am currently working on Future Software Architectures for airborne software.
 
 ### I am currently working on...
+[K&EK Trophies](https://github.com/robertbennett1998/kektrophies), a website for a family member to replace the existing one. The code aims to be clean and attempts to follow best practice without over engineering it for its purpose. I have recently reintegrated the old repositories for this project and set up CI pipelines to push the changes to the web server. There is a staging branch and a master branch, these transfer the files to the web server when a push is made to the branches. The website can be found at [kektrophies.co.uk](https://kektrophies.co.uk/) and the staging site should be accessible through [staging.kektrophies.co.uk](https://staging.kektrophies.co.uk/).
+
 [NvqScaper](https://github.com/robertbennett1998/NvqScaper) with a friend from work. NvqScaper performs a gap analysis on our [Learning Assistant]() profiles making it easier to see which performance or skill criterias we have yet to meet. This has been quickly put together as we needed it immediatly to complete our diploma over the next couple of months. We will be adding to it and refactoring were needed so it can be useful for future cohorts of apprentices.
 
 [Timebox](https://github.com/mumby0168/timebox) with a friend from work. Timebox will be system that makes it easy to allocate your time to various tasks and see where you waste time. The backend is going to be written in Asp.Net Core and apply Domain Driven Design and Test Driven Design principles to build a modular monolith application.
-
-[K&EK Trophies](https://github.com/robertbennett1998/kektrophies), a website for a family member to replace the existing one. The code aims to be clean and attempts to follow best practice without over engineering it for its purpose. Still following TDD.
 
 ### Why not have a look at...
 [hyperparameter_optimisation_library](https://github.com/robertbennett1998/hyperparameter_optimisation_library), a hyperparameter optimisation library for Keras; written for my dissertation as part of my BSc (Hons) in Computer Science. The aim was to provide a reusable framework to perform experiments with various hyperparemter optimisation algorithms. Three were implemented Random Search, Genetic Algorithm and a Random Forest with a Bayesian surrogate function.
