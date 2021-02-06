@@ -7,6 +7,8 @@ I am currently a software engineer working within the areospace industry; I am c
 
 [NvqScaper](https://github.com/robertbennett1998/NvqScaper) with a friend from work. NvqScaper performs a gap analysis on our [Learning Assistant]() profiles making it easier to see which performance or skill criterias we have yet to meet. This has been quickly put together as we needed it immediatly to complete our diploma over the next couple of months. We will be adding to it and refactoring were needed so it can be useful for future cohorts of apprentices.
 
+[A varity of projects within the Bemby-Software organisation](https://github.com/Bemby-Software). These projects will make up a professional registeration tool that can be used to collect evidence when you apply for EngTech, IEng etc. Taking a modular monalith approach and using submodules will allow a lot of reusable code to be created for other projects.
+
 ### Why not have a look at...
 [hyperparameter_optimisation_library](https://github.com/robertbennett1998/hyperparameter_optimisation_library), a hyperparameter optimisation library for Keras; written for my dissertation as part of my BSc (Hons) in Computer Science. The aim was to provide a reusable framework to perform experiments with various hyperparemter optimisation algorithms. Three were implemented Random Search, Genetic Algorithm and a Random Forest with a Bayesian surrogate function.
 
